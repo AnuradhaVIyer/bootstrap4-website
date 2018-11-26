@@ -8,9 +8,10 @@ phases:
      - echo "pre_build step"
  build:
    commands:
+     - pwd
      - ls -l
      - aws s3 ls "s3://codepipeline-us-east-1-700038567080" --recursive
-     - aws s3 sync . "s3://codepipeline-us-east-1-700038567080" --delete
+     - aws s3 sync . "s3://codepipeline-us-east-1-700038567080/GitHubBootstrapToS3" --delete
  post_build:
    commands:
      - echo "post_build step"
