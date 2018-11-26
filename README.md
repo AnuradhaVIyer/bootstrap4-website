@@ -30,7 +30,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2018 Anuradha Iyer. Code released under the [MIT](https://github.com/AnuradhaVIyer/bootstrap4-website/blob/master/LICENSE) license.
+Copyright 2018 Anuradha Iyer. Code released under the [MIT](https://github.com/AnuradhaVIyer/bootstrap4-website/blob/master/LICENSE) license..
 
 
 
