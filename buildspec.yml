@@ -9,7 +9,7 @@ phases:
  build:
    commands:
      - aws s3 ls "s3://codepipeline-us-east-1-700038567080/GithubToS3Bucket"
-     - aws s3 sync . "s3://codepipeline-us-east-1-700038567080/GithubToS3Bucket" 
+     - aws s3 sync . "s3://codepipeline-us-east-1-700038567080/GithubToS3Bucket/*" 
  post_build:
    commands:
      - echo "post_build step"
