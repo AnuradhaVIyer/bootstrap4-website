@@ -22,11 +22,11 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **[Anuradha Iyer]**, Founder of [Anvean Technologies](http://anveantechnologies.co.in/).
+Bootstrap4Website was created by and is maintained by **[Anuradha Iyer]**, Founder of [Anvean Technologies](http://anveantechnologies.co.in/).
 
 * https://github.com/AnuradhaVIyer
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Bootstrap4Website is based on the [Bootstrap](http://getbootstrap.com/) framework.
 
 ## Copyright and License
 
