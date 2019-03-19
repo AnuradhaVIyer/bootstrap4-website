@@ -1,5 +1,7 @@
 # Bootstrap 4 Basic Website
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AnuradhaVIyer/bootstrap4-website/blob/master/LICENSE)
+
 Create a simple company website using Bootstrap 4.
 
 ** Bootstrap 4 Basic Website **  is a responsive, one page webpage for companies. The page has various sections for a starter page.
